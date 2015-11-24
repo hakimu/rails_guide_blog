@@ -1,0 +1,2 @@
+== Rails Guides Blog App
+
